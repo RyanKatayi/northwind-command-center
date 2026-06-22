@@ -5,6 +5,7 @@ import {
   fmtMoney,
   fmtNum,
   parseDate,
+  formatDate,
   daysBetween,
   NORTHWIND_NOW,
 } from "@/lib/format";
@@ -27,15 +28,25 @@ function pad2(n: number): string {
 export default function OverviewPage() {
   const { overrides } = useOverrides();
 
-  // ===== Sales aggregations =====
+  // ===== Sales aggregations (windowed to the trailing 90 days) =====
+  // Find the latest sale, then only aggregate the last 90 days so the
+  // "last 90 days" headline stays accurate even if the dataset grows past it.
+  let maxT = -Infinity;
+  for (const s of sales) {
+    const t = parseDate(s.date).getTime();
+    if (t > maxT) maxT = t;
+  }
+  const maxD = new Date(maxT);
+  const windowStartT = addDays(maxD, -89).getTime();
+  const windowed = sales.filter((s) => parseDate(s.date).getTime() >= windowStartT);
+
   let totalRev = 0;
   let totalLbs = 0;
+  let minT = Infinity;
   const byRegion: Record<string, number> = {};
   const byProduct: Record<string, number> = {};
   const byProductLbs: Record<string, number> = {};
-  let minT = Infinity;
-  let maxT = -Infinity;
-  for (const s of sales) {
+  for (const s of windowed) {
     totalRev += s.revenue;
     totalLbs += s.units_lbs;
     byRegion[s.region] = (byRegion[s.region] || 0) + s.revenue;
@@ -43,9 +54,7 @@ export default function OverviewPage() {
     byProductLbs[s.product] = (byProductLbs[s.product] || 0) + s.units_lbs;
     const t = parseDate(s.date).getTime();
     if (t < minT) minT = t;
-    if (t > maxT) maxT = t;
   }
-  const maxD = new Date(maxT);
   const minD = new Date(minT);
 
   // Trailing-30 vs prior-30 by revenue, windows relative to max sale date.
@@ -109,7 +118,7 @@ export default function OverviewPage() {
       }
     }
   }
-  const maxWeek = Math.max(...buckets.map((b) => b.rev));
+  const maxWeek = Math.max(1, ...buckets.map((b) => b.rev));
   const fmtMD = (d: Date) =>
     d.toLocaleDateString("en-US", { month: "short", day: "numeric" });
   const sparkStart = fmtMD(buckets[0].start).toUpperCase();
@@ -197,7 +206,7 @@ export default function OverviewPage() {
             className="nw-mono"
             style={{ fontSize: "11px", color: "#52525B", letterSpacing: "0.03em" }}
           >
-            Updated Jun 22, 2026
+            Updated {formatDate(NORTHWIND_NOW)}
           </span>
         </div>
       </header>
@@ -410,12 +419,12 @@ export default function OverviewPage() {
                   marginBottom: "20px",
                 }}
               >
-                <h3
+                <h2
                   className="nw-serif"
                   style={{ margin: 0, fontSize: "18px", fontWeight: 600 }}
                 >
                   Regions
-                </h3>
+                </h2>
                 <span
                   className="nw-mono"
                   style={{
@@ -520,12 +529,12 @@ export default function OverviewPage() {
                   marginBottom: "20px",
                 }}
               >
-                <h3
+                <h2
                   className="nw-serif"
                   style={{ margin: 0, fontSize: "18px", fontWeight: 600 }}
                 >
                   Products
-                </h3>
+                </h2>
                 <span
                   className="nw-mono"
                   style={{
