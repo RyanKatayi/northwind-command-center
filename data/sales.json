@@ -1,0 +1,7850 @@
+[
+  {
+    "date": "2026-03-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 523.86
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 52,
+    "revenue": 662.3
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 49,
+    "revenue": 818.3
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 25,
+    "revenue": 321.89
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1077.18
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 58,
+    "revenue": 865.14
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 36,
+    "revenue": 652.91
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 43,
+    "revenue": 692.32
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 27,
+    "revenue": 449.69
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 29,
+    "revenue": 415.94
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 153.71
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 22,
+    "revenue": 342.63
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 27,
+    "revenue": 338.59
+  },
+  {
+    "date": "2026-03-20",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 26,
+    "revenue": 450.66
+  },
+  {
+    "date": "2026-03-21",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 41,
+    "revenue": 582.54
+  },
+  {
+    "date": "2026-03-21",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 33,
+    "revenue": 657.55
+  },
+  {
+    "date": "2026-03-21",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 19,
+    "revenue": 240.03
+  },
+  {
+    "date": "2026-03-21",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 33,
+    "revenue": 510.48
+  },
+  {
+    "date": "2026-03-21",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 55,
+    "revenue": 801.41
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 730.05
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 28,
+    "revenue": 438.24
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 13,
+    "revenue": 163.37
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 7,
+    "revenue": 119.86
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 10,
+    "revenue": 148.08
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 31,
+    "revenue": 611.34
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 29,
+    "revenue": 473.33
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 112.56
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 18,
+    "revenue": 268.58
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 34,
+    "revenue": 566.02
+  },
+  {
+    "date": "2026-03-22",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 59,
+    "revenue": 1069.16
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 57,
+    "revenue": 1136.98
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 121.63
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 2,
+    "revenue": 25.15
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 31,
+    "revenue": 442.79
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 20,
+    "revenue": 370.36
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 276.99
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 4,
+    "revenue": 49.59
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 56,
+    "revenue": 998.72
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 43,
+    "revenue": 644.61
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 23,
+    "revenue": 444.6
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 28,
+    "revenue": 426.12
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 513.53
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 47,
+    "revenue": 614.52
+  },
+  {
+    "date": "2026-03-23",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 5,
+    "revenue": 89.82
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 53,
+    "revenue": 770.41
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 30,
+    "revenue": 547.42
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 14,
+    "revenue": 238.85
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 30,
+    "revenue": 437.25
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 39,
+    "revenue": 718.71
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 28,
+    "revenue": 449.7
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 24,
+    "revenue": 287.29
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 55,
+    "revenue": 921.67
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 51,
+    "revenue": 829.87
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 88.33
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 3,
+    "revenue": 52.92
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 49,
+    "revenue": 908.2
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 43,
+    "revenue": 704.63
+  },
+  {
+    "date": "2026-03-24",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 417.8
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 38,
+    "revenue": 529.13
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 12,
+    "revenue": 210.23
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 112.01
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 47,
+    "revenue": 730.24
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1021.15
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 25,
+    "revenue": 365.57
+  },
+  {
+    "date": "2026-03-25",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 54,
+    "revenue": 826.19
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 873.82
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 124.6
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 415.83
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1057.86
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 279.69
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 46,
+    "revenue": 635.16
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 4,
+    "revenue": 64.27
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 2,
+    "revenue": 23.75
+  },
+  {
+    "date": "2026-03-26",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 5,
+    "revenue": 85.3
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 15,
+    "revenue": 243.62
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 30,
+    "revenue": 388.12
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 48,
+    "revenue": 836.8
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 21,
+    "revenue": 308.33
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 51,
+    "revenue": 803.18
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 26,
+    "revenue": 340.27
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 15,
+    "revenue": 258.8
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 715.89
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 814.43
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 56,
+    "revenue": 964.74
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 130
+  },
+  {
+    "date": "2026-03-27",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 18,
+    "revenue": 317.4
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 7,
+    "revenue": 98.74
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 50,
+    "revenue": 798.42
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 270.19
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 46,
+    "revenue": 798
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 47,
+    "revenue": 934.05
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 32,
+    "revenue": 492.97
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 12,
+    "revenue": 215.65
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 52,
+    "revenue": 724.14
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 40,
+    "revenue": 766.01
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 50,
+    "revenue": 595.56
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 59,
+    "revenue": 1109.18
+  },
+  {
+    "date": "2026-03-28",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 55,
+    "revenue": 905.21
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 56,
+    "revenue": 857.62
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 376.05
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 28,
+    "revenue": 503.05
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 3,
+    "revenue": 42.89
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 23,
+    "revenue": 431.76
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 4,
+    "revenue": 65.71
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 24,
+    "revenue": 309.12
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 16,
+    "revenue": 318.54
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 50,
+    "revenue": 655.93
+  },
+  {
+    "date": "2026-03-29",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 26,
+    "revenue": 432.53
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 59,
+    "revenue": 1097.3
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 48,
+    "revenue": 796.51
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 50,
+    "revenue": 914.06
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 12,
+    "revenue": 193.09
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 20,
+    "revenue": 258.58
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 10,
+    "revenue": 172.4
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 40,
+    "revenue": 570.76
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 466.09
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 42,
+    "revenue": 762.95
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 34,
+    "revenue": 507.28
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 14,
+    "revenue": 273.26
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 125.63
+  },
+  {
+    "date": "2026-03-30",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1032.93
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 128.48
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 107.25
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 510.3
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 24,
+    "revenue": 359.67
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 60,
+    "revenue": 917.04
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 33,
+    "revenue": 419.73
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 19,
+    "revenue": 341.33
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 28,
+    "revenue": 392.94
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 6,
+    "revenue": 119.09
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 77.79
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 27,
+    "revenue": 343.42
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 732.04
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 50,
+    "revenue": 739.13
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 52,
+    "revenue": 847.56
+  },
+  {
+    "date": "2026-03-31",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 11,
+    "revenue": 183.25
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 33,
+    "revenue": 642.42
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 14,
+    "revenue": 197.18
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 48,
+    "revenue": 626.35
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 12,
+    "revenue": 225.71
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 60,
+    "revenue": 941.08
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 265.41
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 120.63
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 54,
+    "revenue": 861.28
+  },
+  {
+    "date": "2026-04-01",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 51,
+    "revenue": 886.63
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 47,
+    "revenue": 899.26
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 264.93
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 52,
+    "revenue": 728.31
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 318.65
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 38,
+    "revenue": 476.88
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 59,
+    "revenue": 822.49
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 57,
+    "revenue": 1035.11
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 701.09
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 60,
+    "revenue": 908.72
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 624.69
+  },
+  {
+    "date": "2026-04-02",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 32,
+    "revenue": 394.84
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 36,
+    "revenue": 510.55
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 59,
+    "revenue": 957.22
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 40,
+    "revenue": 478.42
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 695.12
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 192.38
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 20,
+    "revenue": 363.08
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 30,
+    "revenue": 448.19
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 252.51
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 638.8
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 386.16
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 115.85
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 52,
+    "revenue": 810.42
+  },
+  {
+    "date": "2026-04-03",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 417.01
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 18,
+    "revenue": 256.03
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 520.25
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 25,
+    "revenue": 385.04
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 53,
+    "revenue": 683.93
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 962.39
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 18,
+    "revenue": 327.74
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 50,
+    "revenue": 773.53
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 48,
+    "revenue": 596.59
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 40,
+    "revenue": 693.97
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 55,
+    "revenue": 774.77
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 95.69
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 147.96
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 25,
+    "revenue": 390.39
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 20,
+    "revenue": 253.31
+  },
+  {
+    "date": "2026-04-04",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 42,
+    "revenue": 743.24
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 48,
+    "revenue": 755.54
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 100.62
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 40,
+    "revenue": 552.66
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 36,
+    "revenue": 548.82
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 47,
+    "revenue": 845.23
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 14,
+    "revenue": 259.62
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 535.27
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 4,
+    "revenue": 50.59
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 55,
+    "revenue": 972.7
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 50,
+    "revenue": 723.39
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 39,
+    "revenue": 708.85
+  },
+  {
+    "date": "2026-04-05",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 9,
+    "revenue": 142.5
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 35,
+    "revenue": 500.23
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 20,
+    "revenue": 383.03
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 29,
+    "revenue": 458.34
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 38,
+    "revenue": 494.24
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 17,
+    "revenue": 289.32
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 4,
+    "revenue": 78.68
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 3,
+    "revenue": 54.7
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 430.19
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 58,
+    "revenue": 976.51
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 35,
+    "revenue": 488.05
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 2,
+    "revenue": 37.25
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 529.56
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 118.11
+  },
+  {
+    "date": "2026-04-06",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 18,
+    "revenue": 303.85
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 53,
+    "revenue": 735.32
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 544.99
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 423.45
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 115.18
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 54,
+    "revenue": 923.89
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 421.08
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 32,
+    "revenue": 408.51
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 38,
+    "revenue": 691.63
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 41,
+    "revenue": 510.73
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 32,
+    "revenue": 477.39
+  },
+  {
+    "date": "2026-04-07",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 23,
+    "revenue": 452.94
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 14,
+    "revenue": 258.35
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 13,
+    "revenue": 214.2
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 56,
+    "revenue": 724.76
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 942.44
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 845.96
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 250.11
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 50,
+    "revenue": 651.13
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 50,
+    "revenue": 884.5
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 2,
+    "revenue": 29.95
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 4,
+    "revenue": 72.86
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 13,
+    "revenue": 161.05
+  },
+  {
+    "date": "2026-04-08",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 22,
+    "revenue": 404.78
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 52,
+    "revenue": 987.39
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 213.75
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 47,
+    "revenue": 820.34
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 37,
+    "revenue": 561.17
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 280.1
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 34,
+    "revenue": 476.23
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 16,
+    "revenue": 250.54
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 56,
+    "revenue": 780.25
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 12,
+    "revenue": 199.22
+  },
+  {
+    "date": "2026-04-09",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 4,
+    "revenue": 71.22
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 322.66
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 11,
+    "revenue": 138.69
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 51,
+    "revenue": 774.43
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 14,
+    "revenue": 263.55
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 7,
+    "revenue": 112.07
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 115.94
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 30,
+    "revenue": 554.84
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 4,
+    "revenue": 49.73
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 41,
+    "revenue": 621.23
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 11,
+    "revenue": 216.52
+  },
+  {
+    "date": "2026-04-10",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 38,
+    "revenue": 603.16
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 114.75
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 717.56
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 52,
+    "revenue": 1024.58
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 835.64
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 56,
+    "revenue": 774.24
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 8,
+    "revenue": 136.44
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 34,
+    "revenue": 673.83
+  },
+  {
+    "date": "2026-04-11",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 13,
+    "revenue": 156.3
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 34,
+    "revenue": 635.94
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 881.9
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 98.08
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 6,
+    "revenue": 85.29
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 58,
+    "revenue": 1132.46
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 41,
+    "revenue": 638.97
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 31,
+    "revenue": 569.16
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 39,
+    "revenue": 463.31
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 58,
+    "revenue": 924.68
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 54,
+    "revenue": 700.51
+  },
+  {
+    "date": "2026-04-12",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 24,
+    "revenue": 430.43
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 24,
+    "revenue": 445.22
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 560.15
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 20,
+    "revenue": 254.22
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 795.51
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 221.04
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 440.31
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 18,
+    "revenue": 308.53
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 5,
+    "revenue": 71.93
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 806.74
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 36,
+    "revenue": 679.73
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 18,
+    "revenue": 213.86
+  },
+  {
+    "date": "2026-04-13",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 37,
+    "revenue": 631.75
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 54,
+    "revenue": 1050.52
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 614.71
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 806.83
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 24,
+    "revenue": 330.84
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 22,
+    "revenue": 364.64
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 54,
+    "revenue": 671.66
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 46,
+    "revenue": 780.56
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 744.19
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 60,
+    "revenue": 1148.93
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 126.75
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 35,
+    "revenue": 420.93
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 44,
+    "revenue": 740.11
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 60,
+    "revenue": 985.07
+  },
+  {
+    "date": "2026-04-14",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 52,
+    "revenue": 656.95
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 5,
+    "revenue": 74.02
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 52,
+    "revenue": 822.94
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 25,
+    "revenue": 306.8
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 36,
+    "revenue": 499.68
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 35,
+    "revenue": 438.81
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 16,
+    "revenue": 291.06
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 25,
+    "revenue": 302.32
+  },
+  {
+    "date": "2026-04-15",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 811.33
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 2,
+    "revenue": 28.84
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 148.37
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 293.77
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 513.95
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 38,
+    "revenue": 524.66
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 21,
+    "revenue": 410.34
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 5,
+    "revenue": 63.51
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 795.71
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 58,
+    "revenue": 1140.81
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 557.46
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 402.96
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 323.05
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 80.97
+  },
+  {
+    "date": "2026-04-16",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 470.42
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 51,
+    "revenue": 751.42
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 53,
+    "revenue": 996.69
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 114.01
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 13,
+    "revenue": 236.99
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 891.6
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 98.34
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 20,
+    "revenue": 355.69
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 22,
+    "revenue": 403.58
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 49,
+    "revenue": 809.63
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 14,
+    "revenue": 182.18
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 5,
+    "revenue": 88.3
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 23,
+    "revenue": 336.11
+  },
+  {
+    "date": "2026-04-17",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 879.97
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 55,
+    "revenue": 783.86
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 27,
+    "revenue": 327
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 509.37
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 59,
+    "revenue": 865.38
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 56,
+    "revenue": 776.88
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 78.7
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 48,
+    "revenue": 724.99
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 338.9
+  },
+  {
+    "date": "2026-04-18",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 19,
+    "revenue": 348.11
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 55,
+    "revenue": 816.59
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 760.27
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 11,
+    "revenue": 136.74
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 809.67
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 47,
+    "revenue": 907.48
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 37,
+    "revenue": 677.83
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 33,
+    "revenue": 513.59
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 33,
+    "revenue": 397.21
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 10,
+    "revenue": 176.16
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 792.91
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 43,
+    "revenue": 656.31
+  },
+  {
+    "date": "2026-04-19",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 14,
+    "revenue": 250.99
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 53,
+    "revenue": 1049.91
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 28,
+    "revenue": 513.39
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 22,
+    "revenue": 366.72
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 12,
+    "revenue": 208.48
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 132.98
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 82.09
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 34,
+    "revenue": 421.27
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 22,
+    "revenue": 322.32
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 215.97
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 46,
+    "revenue": 602.28
+  },
+  {
+    "date": "2026-04-20",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 8,
+    "revenue": 137.39
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 51,
+    "revenue": 914.05
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 8,
+    "revenue": 144.57
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 899.68
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 30,
+    "revenue": 377.15
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1009.97
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 40,
+    "revenue": 772.01
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 46,
+    "revenue": 552.42
+  },
+  {
+    "date": "2026-04-21",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 25,
+    "revenue": 429.57
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 58,
+    "revenue": 1060.29
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 57,
+    "revenue": 722.28
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 33,
+    "revenue": 562.05
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 50,
+    "revenue": 716.93
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 34,
+    "revenue": 635.09
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 399.78
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 37,
+    "revenue": 511.81
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 26,
+    "revenue": 413.38
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 56,
+    "revenue": 800.63
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 48,
+    "revenue": 890.66
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 10,
+    "revenue": 159.24
+  },
+  {
+    "date": "2026-04-22",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 191.12
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 103.58
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 524.62
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 48,
+    "revenue": 685.79
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 11,
+    "revenue": 202.8
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 44,
+    "revenue": 548.85
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 36,
+    "revenue": 526.75
+  },
+  {
+    "date": "2026-04-23",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 13,
+    "revenue": 209.16
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 43,
+    "revenue": 632.34
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 520.03
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 48,
+    "revenue": 768.68
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 48,
+    "revenue": 811.2
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 52,
+    "revenue": 732.6
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 29,
+    "revenue": 470.1
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 187.71
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 27,
+    "revenue": 494.51
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 26,
+    "revenue": 376.35
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 23,
+    "revenue": 379.28
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 41,
+    "revenue": 524.29
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 20,
+    "revenue": 240.12
+  },
+  {
+    "date": "2026-04-24",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 49,
+    "revenue": 898.38
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 41,
+    "revenue": 575.82
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 22,
+    "revenue": 360.87
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 29,
+    "revenue": 439.21
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 55,
+    "revenue": 1038.82
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 40,
+    "revenue": 483.7
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 773.12
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 9,
+    "revenue": 167.55
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 425.82
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 12,
+    "revenue": 189.93
+  },
+  {
+    "date": "2026-04-25",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 4,
+    "revenue": 67.92
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 45,
+    "revenue": 637.66
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 19,
+    "revenue": 344.54
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 35,
+    "revenue": 678.41
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 31,
+    "revenue": 499.8
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 533.84
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 7,
+    "revenue": 128.18
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 7,
+    "revenue": 97.16
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 6,
+    "revenue": 109.6
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 45,
+    "revenue": 737.28
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 249.88
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 56,
+    "revenue": 969.58
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 126.61
+  },
+  {
+    "date": "2026-04-26",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 55,
+    "revenue": 715.11
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 41,
+    "revenue": 580.44
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 47,
+    "revenue": 899.13
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 279.17
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 35,
+    "revenue": 439.64
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 28,
+    "revenue": 416.08
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 39,
+    "revenue": 510.15
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 20,
+    "revenue": 335.84
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 84.32
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 9,
+    "revenue": 158.92
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 36,
+    "revenue": 497.03
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 44,
+    "revenue": 860.19
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 83.42
+  },
+  {
+    "date": "2026-04-27",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 34,
+    "revenue": 573.83
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 37,
+    "revenue": 555.2
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 37,
+    "revenue": 604.8
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 37,
+    "revenue": 441.11
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 914.69
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 136.83
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 12,
+    "revenue": 233.87
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 10,
+    "revenue": 129.69
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 803.1
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 31,
+    "revenue": 471.51
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 42,
+    "revenue": 824.1
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 2,
+    "revenue": 32.87
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 31,
+    "revenue": 462.67
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 39,
+    "revenue": 762.62
+  },
+  {
+    "date": "2026-04-28",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 52,
+    "revenue": 838.75
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 12,
+    "revenue": 170.06
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 55,
+    "revenue": 889.89
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 54,
+    "revenue": 929.13
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 30,
+    "revenue": 439.46
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 32,
+    "revenue": 580.9
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 17,
+    "revenue": 239.03
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 33,
+    "revenue": 526.2
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 37,
+    "revenue": 470.24
+  },
+  {
+    "date": "2026-04-29",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 370.2
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 40,
+    "revenue": 748.78
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 301.03
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 192.33
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 116.63
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 13,
+    "revenue": 235.96
+  },
+  {
+    "date": "2026-04-30",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 13,
+    "revenue": 230.13
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 51,
+    "revenue": 755.35
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 33,
+    "revenue": 551.51
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 29,
+    "revenue": 355.01
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 3,
+    "revenue": 50.43
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 220.95
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 51,
+    "revenue": 621.16
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 398.07
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 42,
+    "revenue": 613.5
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 37,
+    "revenue": 481.89
+  },
+  {
+    "date": "2026-05-01",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 14,
+    "revenue": 176.78
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 10,
+    "revenue": 146.76
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 14,
+    "revenue": 201.24
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 21,
+    "revenue": 333.29
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 48,
+    "revenue": 668.77
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 22,
+    "revenue": 400.59
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 11,
+    "revenue": 194.93
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 739.34
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 59,
+    "revenue": 915.83
+  },
+  {
+    "date": "2026-05-02",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 51,
+    "revenue": 904.05
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 53,
+    "revenue": 1026.79
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 121.66
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 117.53
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 46,
+    "revenue": 828.5
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 155.37
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 42,
+    "revenue": 512.97
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 9,
+    "revenue": 149.94
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 27,
+    "revenue": 383.94
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 53,
+    "revenue": 1004.58
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 15,
+    "revenue": 239.73
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 43,
+    "revenue": 765.93
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 60,
+    "revenue": 865.13
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 22,
+    "revenue": 414.36
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 644.81
+  },
+  {
+    "date": "2026-05-03",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 253.23
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 31,
+    "revenue": 395.4
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 17,
+    "revenue": 306.01
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 98.12
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 9,
+    "revenue": 150.03
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 31,
+    "revenue": 596.04
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 538.83
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 55,
+    "revenue": 986.75
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 34,
+    "revenue": 515.68
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 11,
+    "revenue": 168.24
+  },
+  {
+    "date": "2026-05-04",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 29,
+    "revenue": 361.23
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 13,
+    "revenue": 212.47
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 36,
+    "revenue": 585.67
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 24,
+    "revenue": 286.03
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 55,
+    "revenue": 934.92
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 39,
+    "revenue": 548.54
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 3,
+    "revenue": 38.99
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 11,
+    "revenue": 193.39
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 30,
+    "revenue": 415.44
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 26,
+    "revenue": 508.63
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 47,
+    "revenue": 592.52
+  },
+  {
+    "date": "2026-05-05",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 32,
+    "revenue": 577.01
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 148.5
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 617.48
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 48,
+    "revenue": 613.82
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 40,
+    "revenue": 723.04
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 49,
+    "revenue": 976.34
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 13,
+    "revenue": 165.99
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 686.96
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 37,
+    "revenue": 569.42
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 33,
+    "revenue": 417.4
+  },
+  {
+    "date": "2026-05-06",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 34,
+    "revenue": 486.12
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 32,
+    "revenue": 441.23
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 30,
+    "revenue": 571.63
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 3,
+    "revenue": 46.66
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 42,
+    "revenue": 702.25
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 39,
+    "revenue": 546.29
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 52,
+    "revenue": 971.09
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 34,
+    "revenue": 432.03
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 29,
+    "revenue": 562.54
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 25,
+    "revenue": 383.32
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 47,
+    "revenue": 603.08
+  },
+  {
+    "date": "2026-05-07",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 29,
+    "revenue": 526.59
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 16,
+    "revenue": 306.5
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 275.72
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 269.52
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 35,
+    "revenue": 612.97
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 27,
+    "revenue": 496.71
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 56,
+    "revenue": 888.46
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 47,
+    "revenue": 652.82
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 26,
+    "revenue": 416.97
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 115.48
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 52,
+    "revenue": 722.65
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 33,
+    "revenue": 611.67
+  },
+  {
+    "date": "2026-05-08",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 23,
+    "revenue": 300.6
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 39,
+    "revenue": 467.2
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 959.28
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 40,
+    "revenue": 560.53
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 6,
+    "revenue": 72.11
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 16,
+    "revenue": 238.72
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 48,
+    "revenue": 904.6
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 16,
+    "revenue": 231.73
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 824.54
+  },
+  {
+    "date": "2026-05-09",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 193.6
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 16,
+    "revenue": 285.24
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 904.72
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1095.76
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 24,
+    "revenue": 343.16
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 530.53
+  },
+  {
+    "date": "2026-05-10",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 28,
+    "revenue": 451.02
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 128.56
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 36,
+    "revenue": 588.91
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 20,
+    "revenue": 256.38
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 18,
+    "revenue": 267.78
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 55,
+    "revenue": 884.25
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 178.83
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 507.36
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 59,
+    "revenue": 747.98
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 10,
+    "revenue": 177.45
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 47,
+    "revenue": 747.36
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 17,
+    "revenue": 215.57
+  },
+  {
+    "date": "2026-05-11",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 47,
+    "revenue": 808.8
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 10,
+    "revenue": 164.91
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 58,
+    "revenue": 849.33
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 2,
+    "revenue": 24.85
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 5,
+    "revenue": 84.89
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 117.3
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 16,
+    "revenue": 316.13
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 11,
+    "revenue": 175.07
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 452.06
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 12,
+    "revenue": 212.75
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 38,
+    "revenue": 611.86
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 33,
+    "revenue": 415.34
+  },
+  {
+    "date": "2026-05-12",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 54,
+    "revenue": 931.45
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 47,
+    "revenue": 857.51
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 522.97
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 39,
+    "revenue": 604.49
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 118.48
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 114.11
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 54,
+    "revenue": 923.12
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 3,
+    "revenue": 41.81
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 35,
+    "revenue": 658.36
+  },
+  {
+    "date": "2026-05-13",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 42,
+    "revenue": 682.36
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 47,
+    "revenue": 717.22
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 41,
+    "revenue": 509.28
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 918.37
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 31,
+    "revenue": 596.9
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 9,
+    "revenue": 145.15
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 60,
+    "revenue": 761.12
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 535.32
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 41,
+    "revenue": 498.04
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 416.29
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 42,
+    "revenue": 591.3
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 17,
+    "revenue": 267.9
+  },
+  {
+    "date": "2026-05-14",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 56,
+    "revenue": 1015.96
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 775.62
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 219.37
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 2,
+    "revenue": 26.08
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 20,
+    "revenue": 387.31
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 9,
+    "revenue": 144.66
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 18,
+    "revenue": 249.57
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 27,
+    "revenue": 488.64
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 10,
+    "revenue": 182.87
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 27,
+    "revenue": 346.94
+  },
+  {
+    "date": "2026-05-15",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 21,
+    "revenue": 370.78
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 40,
+    "revenue": 590.31
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 42,
+    "revenue": 824.35
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 58,
+    "revenue": 978.88
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 39,
+    "revenue": 590.72
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 242.92
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 13,
+    "revenue": 203.47
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 50,
+    "revenue": 844.9
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 30,
+    "revenue": 587.8
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 60,
+    "revenue": 850.04
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 5,
+    "revenue": 60.18
+  },
+  {
+    "date": "2026-05-16",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 57,
+    "revenue": 987.24
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 47,
+    "revenue": 715.48
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 775.13
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 40,
+    "revenue": 509.84
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 38,
+    "revenue": 685.1
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 185.08
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 248.5
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 28,
+    "revenue": 342.77
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 45,
+    "revenue": 801.47
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 42,
+    "revenue": 578.92
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 19,
+    "revenue": 371.5
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 49,
+    "revenue": 635.09
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 693.01
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 26,
+    "revenue": 487.94
+  },
+  {
+    "date": "2026-05-17",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 31,
+    "revenue": 538.95
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 37,
+    "revenue": 717.81
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 44,
+    "revenue": 575.46
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 33,
+    "revenue": 552.94
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 738.76
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 51,
+    "revenue": 978.35
+  },
+  {
+    "date": "2026-05-18",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 3,
+    "revenue": 50
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 23,
+    "revenue": 335.32
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 58,
+    "revenue": 818.47
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 151.69
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 44,
+    "revenue": 731.82
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 19,
+    "revenue": 327.09
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 23,
+    "revenue": 448.55
+  },
+  {
+    "date": "2026-05-19",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 59,
+    "revenue": 1048.83
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 50,
+    "revenue": 725.27
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 246.36
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 44,
+    "revenue": 543.9
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 26,
+    "revenue": 452.79
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 23,
+    "revenue": 351.78
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 8,
+    "revenue": 99.93
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 394.82
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 25,
+    "revenue": 371.23
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 282.74
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 2,
+    "revenue": 35.77
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 51,
+    "revenue": 771.54
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 49,
+    "revenue": 750.18
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 30,
+    "revenue": 360.23
+  },
+  {
+    "date": "2026-05-20",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 18,
+    "revenue": 317.37
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 40,
+    "revenue": 608.34
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 10,
+    "revenue": 158.33
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 27,
+    "revenue": 482.73
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 58,
+    "revenue": 924.97
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 35,
+    "revenue": 444.28
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 12,
+    "revenue": 218.86
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 33,
+    "revenue": 547.59
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 19,
+    "revenue": 314.47
+  },
+  {
+    "date": "2026-05-21",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 16,
+    "revenue": 288.2
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 21,
+    "revenue": 295.38
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 38,
+    "revenue": 725.66
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 11,
+    "revenue": 192.43
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 30,
+    "revenue": 549.12
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 2,
+    "revenue": 31.68
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 690.32
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 216.12
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 274.46
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 182.72
+  },
+  {
+    "date": "2026-05-22",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 554.6
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 25,
+    "revenue": 359.41
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 56,
+    "revenue": 911.17
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 29,
+    "revenue": 368.55
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 23,
+    "revenue": 338.49
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 31,
+    "revenue": 565.24
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 32,
+    "revenue": 480.8
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 37,
+    "revenue": 674.3
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 83.84
+  },
+  {
+    "date": "2026-05-23",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 49,
+    "revenue": 816.74
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 15,
+    "revenue": 207.38
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 42,
+    "revenue": 783.75
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 890.87
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 37,
+    "revenue": 722.49
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 40,
+    "revenue": 622.31
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 28,
+    "revenue": 493.48
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 54,
+    "revenue": 1071.32
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 6,
+    "revenue": 96.57
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 56,
+    "revenue": 730.67
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 41,
+    "revenue": 696.77
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 44,
+    "revenue": 608.68
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 432.72
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 15,
+    "revenue": 193.7
+  },
+  {
+    "date": "2026-05-24",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 10,
+    "revenue": 171.24
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 45,
+    "revenue": 663.29
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 28,
+    "revenue": 465
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 42,
+    "revenue": 529.11
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 26,
+    "revenue": 461.28
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 5,
+    "revenue": 75.52
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 6,
+    "revenue": 117.78
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 58,
+    "revenue": 751.7
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 10,
+    "revenue": 128.56
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 28,
+    "revenue": 492.14
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 60,
+    "revenue": 1166.22
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 3,
+    "revenue": 48.69
+  },
+  {
+    "date": "2026-05-25",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 17,
+    "revenue": 295.49
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 59,
+    "revenue": 1111.57
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 16,
+    "revenue": 259.35
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 29,
+    "revenue": 547.91
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 49,
+    "revenue": 821.66
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 52,
+    "revenue": 893.6
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 37,
+    "revenue": 536.22
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 52,
+    "revenue": 959.86
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 35,
+    "revenue": 546.86
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 431.49
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 722.23
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 296.49
+  },
+  {
+    "date": "2026-05-26",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 32,
+    "revenue": 384.15
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 41,
+    "revenue": 758.72
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 46,
+    "revenue": 904.07
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 192.4
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 15,
+    "revenue": 233.49
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 21,
+    "revenue": 300.8
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 13,
+    "revenue": 257.47
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 55,
+    "revenue": 909.9
+  },
+  {
+    "date": "2026-05-27",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 42,
+    "revenue": 749.78
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 48,
+    "revenue": 699.29
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 26,
+    "revenue": 453.33
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 52,
+    "revenue": 1016.52
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 23,
+    "revenue": 277.64
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 5,
+    "revenue": 84.45
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 39,
+    "revenue": 560.02
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 34,
+    "revenue": 614.1
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 35,
+    "revenue": 541.5
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1019.31
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 37,
+    "revenue": 459.28
+  },
+  {
+    "date": "2026-05-28",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 551.17
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 21,
+    "revenue": 301.32
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 24,
+    "revenue": 286.16
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 111.59
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 38,
+    "revenue": 695.44
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 85.72
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 39,
+    "revenue": 692.69
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 531.15
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 56,
+    "revenue": 919.32
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 23,
+    "revenue": 299.06
+  },
+  {
+    "date": "2026-05-29",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 38,
+    "revenue": 668.59
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 29,
+    "revenue": 430.81
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 58,
+    "revenue": 1061.92
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 41,
+    "revenue": 650.54
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 9,
+    "revenue": 126.26
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 46,
+    "revenue": 912.73
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 25,
+    "revenue": 406.68
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 21,
+    "revenue": 267.93
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 31,
+    "revenue": 562.21
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 47,
+    "revenue": 684.99
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 39,
+    "revenue": 716.63
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 48,
+    "revenue": 793.2
+  },
+  {
+    "date": "2026-05-30",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 21,
+    "revenue": 358.38
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 27,
+    "revenue": 497.29
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 11,
+    "revenue": 168.11
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 55,
+    "revenue": 684.9
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 2,
+    "revenue": 34.35
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 26,
+    "revenue": 367.63
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 24,
+    "revenue": 448.43
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 34,
+    "revenue": 556.05
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 313.56
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 38,
+    "revenue": 580.6
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 16,
+    "revenue": 282.71
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 39,
+    "revenue": 553.64
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 10,
+    "revenue": 164.27
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 13,
+    "revenue": 157.6
+  },
+  {
+    "date": "2026-05-31",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 50,
+    "revenue": 892.78
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 19,
+    "revenue": 270.06
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 25,
+    "revenue": 457.23
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 940.91
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 41,
+    "revenue": 515.35
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 30,
+    "revenue": 541.47
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 35,
+    "revenue": 507.68
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 35,
+    "revenue": 682.92
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 60,
+    "revenue": 931.14
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 40,
+    "revenue": 698.86
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 27,
+    "revenue": 407.76
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 2,
+    "revenue": 38.48
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 41,
+    "revenue": 632.6
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 17,
+    "revenue": 213.39
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 32,
+    "revenue": 582.86
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 2,
+    "revenue": 38.52
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 60,
+    "revenue": 982.18
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 26,
+    "revenue": 339.58
+  },
+  {
+    "date": "2026-06-01",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 400.78
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 49,
+    "revenue": 713.91
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 57,
+    "revenue": 920.06
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 7,
+    "revenue": 124.22
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 54,
+    "revenue": 768.34
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 14,
+    "revenue": 225.49
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 29,
+    "revenue": 504.07
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 48,
+    "revenue": 948.39
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 21,
+    "revenue": 374.04
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 4,
+    "revenue": 57.7
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 331.66
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 78.4
+  },
+  {
+    "date": "2026-06-02",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 87.14
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 36,
+    "revenue": 508.77
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 17,
+    "revenue": 312.58
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 946.7
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 15,
+    "revenue": 282.09
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 46,
+    "revenue": 867.07
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 13,
+    "revenue": 213.52
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 28,
+    "revenue": 486.42
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 29,
+    "revenue": 573.83
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 29,
+    "revenue": 470.23
+  },
+  {
+    "date": "2026-06-03",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 11,
+    "revenue": 186.82
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 43,
+    "revenue": 640.95
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 44,
+    "revenue": 672.81
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 25,
+    "revenue": 421.8
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 19,
+    "revenue": 261.95
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 32,
+    "revenue": 410.52
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 196.98
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 46,
+    "revenue": 727.5
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 451.53
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 7,
+    "revenue": 102.54
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 32,
+    "revenue": 630.6
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 124.4
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 60,
+    "revenue": 755.03
+  },
+  {
+    "date": "2026-06-04",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 60,
+    "revenue": 1035.7
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 28,
+    "revenue": 521.67
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 56,
+    "revenue": 909.18
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 30,
+    "revenue": 450.34
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 29,
+    "revenue": 523.82
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 6,
+    "revenue": 90.91
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 17,
+    "revenue": 310.2
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 36,
+    "revenue": 703.44
+  },
+  {
+    "date": "2026-06-05",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 2,
+    "revenue": 30.49
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 33,
+    "revenue": 499.94
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 55,
+    "revenue": 666.42
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 9,
+    "revenue": 153.66
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 60,
+    "revenue": 871.5
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 31,
+    "revenue": 450.71
+  },
+  {
+    "date": "2026-06-06",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 43,
+    "revenue": 521.67
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 13,
+    "revenue": 181.47
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 38,
+    "revenue": 624.09
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 38,
+    "revenue": 494.71
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 14,
+    "revenue": 210.93
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 58,
+    "revenue": 735.41
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 56,
+    "revenue": 997.42
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 863.92
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 17,
+    "revenue": 210.84
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 36,
+    "revenue": 679.54
+  },
+  {
+    "date": "2026-06-07",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 9,
+    "revenue": 154.22
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 14,
+    "revenue": 196.36
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 44,
+    "revenue": 808.33
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 38,
+    "revenue": 751.93
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 38,
+    "revenue": 552.19
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 34,
+    "revenue": 638.48
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 54,
+    "revenue": 874.77
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 5,
+    "revenue": 61.33
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 15,
+    "revenue": 281.67
+  },
+  {
+    "date": "2026-06-08",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 409.37
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 55,
+    "revenue": 1040.61
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 5,
+    "revenue": 62.6
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 7,
+    "revenue": 126.16
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 48,
+    "revenue": 612.8
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 58,
+    "revenue": 968.61
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 46,
+    "revenue": 847.46
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 56,
+    "revenue": 724.91
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 60,
+    "revenue": 861.1
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 58,
+    "revenue": 1089.24
+  },
+  {
+    "date": "2026-06-09",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 5,
+    "revenue": 80.82
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 42,
+    "revenue": 625.92
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 21,
+    "revenue": 385.59
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 27,
+    "revenue": 437.99
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 22,
+    "revenue": 379.14
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 8,
+    "revenue": 112.32
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 53,
+    "revenue": 639.29
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 20,
+    "revenue": 350
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 17,
+    "revenue": 236.96
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 54,
+    "revenue": 1052.18
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 60,
+    "revenue": 755.08
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 54,
+    "revenue": 852.78
+  },
+  {
+    "date": "2026-06-10",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 47,
+    "revenue": 833.15
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 48,
+    "revenue": 868.6
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 43,
+    "revenue": 653.86
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 8,
+    "revenue": 152.95
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 10,
+    "revenue": 160.63
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 6,
+    "revenue": 75.49
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 956.24
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 53,
+    "revenue": 790.31
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 20,
+    "revenue": 324.28
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 46,
+    "revenue": 593.68
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 3,
+    "revenue": 51.05
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 16,
+    "revenue": 236.96
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 42,
+    "revenue": 652.42
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 59,
+    "revenue": 712.05
+  },
+  {
+    "date": "2026-06-11",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 49,
+    "revenue": 838.11
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 23,
+    "revenue": 327.67
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 31,
+    "revenue": 399.24
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 42,
+    "revenue": 768.67
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 37,
+    "revenue": 657.95
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 12,
+    "revenue": 175.09
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 25,
+    "revenue": 382.51
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 6,
+    "revenue": 71.36
+  },
+  {
+    "date": "2026-06-12",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 23,
+    "revenue": 396.33
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 31,
+    "revenue": 601.61
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 35,
+    "revenue": 576.26
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 53,
+    "revenue": 825.94
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 50,
+    "revenue": 731.29
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 19,
+    "revenue": 310.53
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Mountain West",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 22,
+    "revenue": 284.41
+  },
+  {
+    "date": "2026-06-13",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 25,
+    "revenue": 497.34
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 41,
+    "revenue": 657.23
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 35,
+    "revenue": 424.98
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 32,
+    "revenue": 535.14
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 28,
+    "revenue": 410.58
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 9,
+    "revenue": 108.2
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 6,
+    "revenue": 109.29
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 37,
+    "revenue": 698.02
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 54,
+    "revenue": 970.61
+  },
+  {
+    "date": "2026-06-14",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 57,
+    "revenue": 797.34
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 41,
+    "revenue": 577.16
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 42,
+    "revenue": 801.65
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 24,
+    "revenue": 286.09
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Bay Area",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 46,
+    "revenue": 642.46
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 57,
+    "revenue": 1131.35
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 7,
+    "revenue": 84.58
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Bay Area",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 24,
+    "revenue": 407.17
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 35,
+    "revenue": 608.6
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 50,
+    "revenue": 920.86
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 52,
+    "revenue": 672.77
+  },
+  {
+    "date": "2026-06-15",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 53,
+    "revenue": 908.09
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 29,
+    "revenue": 418
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 16,
+    "revenue": 306.7
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Pacific Northwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 57,
+    "revenue": 971.77
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Bay Area",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 59,
+    "revenue": 1066.83
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 19,
+    "revenue": 303.64
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 44,
+    "revenue": 558.39
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Mountain West",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 21,
+    "revenue": 308.36
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Mountain West",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 45,
+    "revenue": 833.66
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 16,
+    "revenue": 266.81
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 25,
+    "revenue": 297.94
+  },
+  {
+    "date": "2026-06-16",
+    "region": "Southwest",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 15,
+    "revenue": 258.64
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 59,
+    "revenue": 1080.25
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 8,
+    "revenue": 126.47
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Pacific Northwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 28,
+    "revenue": 338.51
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Bay Area",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 7,
+    "revenue": 117.54
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Bay Area",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 36,
+    "revenue": 441.42
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Mountain West",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 49,
+    "revenue": 786.73
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Mountain West",
+    "sku": "NW-SEASONAL",
+    "product": "Seasonal Roast",
+    "units_lbs": 13,
+    "revenue": 219.59
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Southwest",
+    "sku": "NW-ESP-HOUSE",
+    "product": "House Espresso",
+    "units_lbs": 22,
+    "revenue": 324.88
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Southwest",
+    "sku": "NW-SINGLE-ETH",
+    "product": "Ethiopia Single Origin",
+    "units_lbs": 6,
+    "revenue": 114.6
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Southwest",
+    "sku": "NW-DECAF-SWP",
+    "product": "Swiss Water Decaf",
+    "units_lbs": 18,
+    "revenue": 287.51
+  },
+  {
+    "date": "2026-06-17",
+    "region": "Southwest",
+    "sku": "NW-COLD-BLEND",
+    "product": "Cold Brew Blend",
+    "units_lbs": 58,
+    "revenue": 692.6
+  }
+]

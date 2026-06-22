@@ -1,0 +1,122 @@
+[
+  {
+    "id": "acct_01",
+    "name": "Union Coffee",
+    "region": "Mountain West",
+    "monthly_volume_lbs": 369,
+    "customer_since": "2025-12-01",
+    "status": "active"
+  },
+  {
+    "id": "acct_02",
+    "name": "Blue Coffee House",
+    "region": "Bay Area",
+    "monthly_volume_lbs": 228,
+    "customer_since": "2025-01-16",
+    "status": "active"
+  },
+  {
+    "id": "acct_03",
+    "name": "Field Cafe",
+    "region": "Pacific Northwest",
+    "monthly_volume_lbs": 114,
+    "customer_since": "2025-07-29",
+    "status": "active"
+  },
+  {
+    "id": "acct_04",
+    "name": "Harbor & Co.",
+    "region": "Southwest",
+    "monthly_volume_lbs": 309,
+    "customer_since": "2024-05-25",
+    "status": "paused"
+  },
+  {
+    "id": "acct_05",
+    "name": "Field Espresso Bar",
+    "region": "Bay Area",
+    "monthly_volume_lbs": 142,
+    "customer_since": "2024-01-14",
+    "status": "active"
+  },
+  {
+    "id": "acct_06",
+    "name": "Ember & Co.",
+    "region": "Bay Area",
+    "monthly_volume_lbs": 77,
+    "customer_since": "2024-07-17",
+    "status": "active"
+  },
+  {
+    "id": "acct_07",
+    "name": "Union Brews",
+    "region": "Southwest",
+    "monthly_volume_lbs": 332,
+    "customer_since": "2025-12-24",
+    "status": "active"
+  },
+  {
+    "id": "acct_08",
+    "name": "Cedar & Co.",
+    "region": "Pacific Northwest",
+    "monthly_volume_lbs": 380,
+    "customer_since": "2025-05-13",
+    "status": "active"
+  },
+  {
+    "id": "acct_09",
+    "name": "Aster & Co.",
+    "region": "Mountain West",
+    "monthly_volume_lbs": 88,
+    "customer_since": "2024-05-16",
+    "status": "active"
+  },
+  {
+    "id": "acct_10",
+    "name": "Harbor Coffee House",
+    "region": "Southwest",
+    "monthly_volume_lbs": 112,
+    "customer_since": "2025-11-02",
+    "status": "paused"
+  },
+  {
+    "id": "acct_11",
+    "name": "Ember Beanery",
+    "region": "Pacific Northwest",
+    "monthly_volume_lbs": 193,
+    "customer_since": "2025-11-12",
+    "status": "active"
+  },
+  {
+    "id": "acct_12",
+    "name": "Goldfinch Roasters",
+    "region": "Pacific Northwest",
+    "monthly_volume_lbs": 99,
+    "customer_since": "2024-02-27",
+    "status": "active"
+  },
+  {
+    "id": "acct_13",
+    "name": "Ember Coffee",
+    "region": "Pacific Northwest",
+    "monthly_volume_lbs": 102,
+    "customer_since": "2025-04-05",
+    "status": "active"
+  },
+  {
+    "id": "acct_14",
+    "name": "Lark Coffee House",
+    "region": "Bay Area",
+    "monthly_volume_lbs": 154,
+    "customer_since": "2024-10-27",
+    "status": "active"
+  },
+  {
+    "id": "acct_15",
+    "name": "Iron & Co.",
+    "region": "Southwest",
+    "monthly_volume_lbs": 356,
+    "customer_since": "2025-02-09",
+    "status": "active"
+  }
+]
