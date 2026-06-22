@@ -4,7 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { inquiries } from "@/lib/data";
 import { useOverrides } from "@/lib/useOverrides";
-import { effectiveStatus, isContacted } from "@/lib/triage";
+import { contactedFlag, effectiveStatus } from "@/lib/triage";
 
 const DARK_ACCENT = "#4FD9A0";
 
@@ -67,14 +67,13 @@ export function Sidebar() {
   const { overrides, hydrated } = useOverrides();
 
   const isActive = (href: string) =>
-    href === "/" ? pathname === "/" : pathname.startsWith(href);
+    href === "/" ? pathname === "/" : pathname === href || pathname.startsWith(href + "/");
 
   // Open inquiries awaiting first contact.
   const attn = hydrated
     ? inquiries.filter((i) => {
-        const st = effectiveStatus(i, overrides[i.id]);
-        const contacted = isContacted(overrides[i.id]) || st === "contacted";
-        return st !== "closed" && !contacted;
+        const ov = overrides[i.id];
+        return effectiveStatus(i, ov) !== "closed" && !contactedFlag(i, ov);
       }).length
     : 0;
 
@@ -147,8 +146,14 @@ export function Sidebar() {
         {NAV.map((item) => {
           const active = isActive(item.href);
           return (
-            <Link key={item.key} href={item.href} style={navStyle(active)}>
+            <Link
+              key={item.key}
+              href={item.href}
+              aria-current={active ? "page" : undefined}
+              style={navStyle(active)}
+            >
               <span
+                aria-hidden="true"
                 style={{
                   display: "flex",
                   alignItems: "center",
@@ -162,6 +167,7 @@ export function Sidebar() {
               {item.key === "triage" && attn > 0 && (
                 <span
                   className="nw-mono"
+                  aria-label={`${attn} awaiting first contact`}
                   style={{
                     fontSize: 10,
                     fontWeight: 500,
