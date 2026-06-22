@@ -67,8 +67,11 @@ export async function POST(req: Request) {
       return NextResponse.json({ draft: templateDraft(inquiry), source: "template" });
     }
     return NextResponse.json({ draft: text, source: "ai" });
-  } catch {
-    // Network/key/model error -> fall back, never 500 on the operator.
+  } catch (err) {
+    // Network/key/model error -> fall back, never 500 on the operator. Log it so
+    // a bad or expired key is debuggable in server logs without changing the
+    // response contract (a silent template fallback otherwise hides the cause).
+    console.error("draft-reply: model call failed, using template draft", err);
     return NextResponse.json({ draft: templateDraft(inquiry), source: "template" });
   }
 }
