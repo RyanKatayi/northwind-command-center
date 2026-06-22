@@ -7,6 +7,7 @@ on:
 permissions:
   contents: read
   pull-requests: write
+  id-token: write
 
 jobs:
   claude-review:
@@ -18,6 +19,7 @@ jobs:
       - uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           prompt: |
             Review this pull request. Focus on correctness bugs, security
             issues, accessibility, and clarity. Leave concise inline comments on
