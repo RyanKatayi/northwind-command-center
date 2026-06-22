@@ -33,6 +33,8 @@ export function Toolbar({ rowCount, query, statusFilter, sort, onQuery, onStatus
       </div>
       <div style={{ flex: 1 }} />
       <input
+        type="search"
+        aria-label="Search inquiries by café, contact, or region"
         value={query}
         onChange={(e) => onQuery(e.target.value)}
         placeholder="Search café, contact, region…"

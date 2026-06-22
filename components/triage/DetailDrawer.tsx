@@ -1,6 +1,6 @@
 "use client";
 
-import type { CSSProperties } from "react";
+import { useEffect, useRef, type CSSProperties } from "react";
 import type { Inquiry } from "@/lib/types";
 import type { ScoreResult } from "@/lib/triage";
 import { TIERS, TEAM } from "@/lib/triage";
@@ -47,6 +47,18 @@ export function DetailDrawer({
   onDraftChange,
 }: DetailDrawerProps) {
   const tcfg = TIERS[sc.tier];
+  const closeRef = useRef<HTMLButtonElement>(null);
+
+  // Accessible-dialog behavior: focus the close button on open, and let Escape
+  // dismiss the drawer (not just the overlay click or the close button).
+  useEffect(() => {
+    closeRef.current?.focus();
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+    };
+    document.addEventListener("keydown", onKey);
+    return () => document.removeEventListener("keydown", onKey);
+  }, [onClose]);
 
   const tierBadgeStyle: CSSProperties = {
     display: "inline-flex",
@@ -73,10 +85,14 @@ export function DetailDrawer({
     <>
       <div
         onClick={onClose}
+        aria-hidden="true"
         style={{ position: "fixed", inset: 0, background: "rgba(22,22,23,0.32)", zIndex: 40, animation: "nw-fade 0.2s ease" }}
       />
       <div
         className="nw-scroll"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="drawer-cafe-name"
         style={{
           position: "fixed",
           top: 0,
@@ -98,7 +114,9 @@ export function DetailDrawer({
               {tcfg.label} · Score {sc.total}
             </span>
             <button
+              ref={closeRef}
               onClick={onClose}
+              aria-label="Close"
               style={{
                 border: "none",
                 background: "#F1F1F3",
@@ -124,7 +142,11 @@ export function DetailDrawer({
           >
             Inbound inquiry
           </div>
-          <h2 className="nw-serif" style={{ margin: "9px 0 0", fontSize: 27, fontWeight: 600, letterSpacing: "-0.015em" }}>
+          <h2
+            id="drawer-cafe-name"
+            className="nw-serif"
+            style={{ margin: "9px 0 0", fontSize: 27, fontWeight: 600, letterSpacing: "-0.015em" }}
+          >
             {inq.cafe_name}
           </h2>
           <div style={{ fontSize: 13.5, color: "#71717A", marginTop: 7 }}>

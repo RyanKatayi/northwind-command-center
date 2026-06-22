@@ -113,7 +113,10 @@ export default function InquiriesPage() {
     const inq = inquiries.find((x) => x.id === id);
     if (!inq) return;
     if (contactedFlag(inq, overrides[id])) {
-      updateOverride(id, { contactedAt: undefined, status: "qualified" satisfies InquiryStatus });
+      // Undo: clear the contact stamp and drop the status override so the
+      // inquiry reverts to its source status, rather than forcing "qualified"
+      // (which would silently advance a "new" lead's pipeline stage and score).
+      updateOverride(id, { contactedAt: undefined, status: undefined });
     } else {
       updateOverride(id, {
         contactedAt: new Date().toISOString(),

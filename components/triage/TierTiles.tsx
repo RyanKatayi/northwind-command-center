@@ -42,7 +42,13 @@ export function TierTiles({ tier, counts, onPick }: TierTilesProps) {
           transition: "border-color 0.15s, background 0.15s",
         };
         return (
-          <button key={c.key} onClick={() => onPick(c.key)} style={tileStyle}>
+          <button
+            key={c.key}
+            onClick={() => onPick(c.key)}
+            aria-pressed={active}
+            aria-label={`${c.label}: ${counts[c.key]} ${c.sub}`}
+            style={tileStyle}
+          >
             <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
               {c.hasDot && (
                 <span style={{ width: 8, height: 8, borderRadius: "50%", background: c.color }} />
