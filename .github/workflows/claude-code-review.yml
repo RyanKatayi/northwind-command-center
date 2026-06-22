@@ -28,4 +28,4 @@ jobs:
             Context: Next.js 16 (App Router) + TypeScript. Operator state
             persists to localStorage; the source data in data/ is read-only.
           claude_args: |
-            --max-turns 6
+            --max-turns 25
