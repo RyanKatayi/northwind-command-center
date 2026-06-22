@@ -1,26 +1,73 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+/* Northwind Operations OS theme. */
+
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+body {
+  font-family: var(--font-instrument), system-ui, -apple-system, sans-serif;
+  background: #ededef;
+  color: #18181b;
+  -webkit-font-smoothing: antialiased;
+}
+::selection {
+  background: #c7ecda;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.nw-serif {
+  font-family: var(--font-bricolage), "Instrument Sans", sans-serif;
+}
+.nw-mono {
+  font-family: var(--font-plex-mono), monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+input::placeholder {
+  color: #a1a1aa;
+}
+
+/* Light scrollbars */
+.nw-scroll::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+.nw-scroll::-webkit-scrollbar-thumb {
+  background: #d4d4d8;
+  border-radius: 8px;
+  border: 3px solid #eeeef0;
+}
+.nw-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+@keyframes nw-spin {
+  to {
+    transform: rotate(360deg);
   }
 }
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@keyframes nw-drawer-in {
+  from {
+    transform: translateX(28px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes nw-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
