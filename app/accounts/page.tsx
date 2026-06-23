@@ -431,7 +431,12 @@ export default function AccountsPage() {
           {/* chips */}
           <div style={{ display: "flex", alignItems: "center", gap: "6px", margin: "20px 0 14px" }}>
             {accChips.map((chip) => (
-              <button key={chip.key} onClick={chip.onClick} style={chip.style}>
+              <button
+                key={chip.key}
+                onClick={chip.onClick}
+                aria-pressed={af === chip.key}
+                style={chip.style}
+              >
                 {chip.label}
                 <span style={chip.countStyle}>{chip.count}</span>
               </button>
@@ -540,7 +545,12 @@ export default function AccountsPage() {
                 {accPager.rangeLabel}
               </span>
               <div style={{ display: "flex", alignItems: "center", gap: "7px" }}>
-                <button onClick={accPager.onPrev} style={accPager.prevStyle}>
+                <button
+                  onClick={accPager.onPrev}
+                  disabled={aPage === 0}
+                  aria-label="Previous page"
+                  style={accPager.prevStyle}
+                >
                   ‹
                 </button>
                 {accPager.pages.map((pg) => (
@@ -548,7 +558,12 @@ export default function AccountsPage() {
                     {pg.n}
                   </button>
                 ))}
-                <button onClick={accPager.onNext} style={accPager.nextStyle}>
+                <button
+                  onClick={accPager.onNext}
+                  disabled={aPage === aPages - 1}
+                  aria-label="Next page"
+                  style={accPager.nextStyle}
+                >
                   ›
                 </button>
               </div>
