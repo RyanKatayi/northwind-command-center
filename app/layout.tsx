@@ -20,7 +20,10 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Northwind Operations OS",
+  title: {
+    default: "Northwind Operations OS",
+    template: "%s · Northwind",
+  },
   description: "Internal command center for Northwind Coffee.",
 };
 
