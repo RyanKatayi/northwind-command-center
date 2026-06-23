@@ -71,3 +71,19 @@ input::placeholder {
     transform: translateY(0);
   }
 }
+
+/* Clickable triage rows: clear hover + keyboard-focus feedback. */
+.nw-row {
+  border: 1px solid #e6e6e9;
+  cursor: pointer;
+  transition: border-color 0.12s, box-shadow 0.12s;
+}
+.nw-row:hover {
+  border-color: #c9c9ce;
+  box-shadow: 0 1px 3px rgba(22, 22, 23, 0.06);
+}
+.nw-row:focus-visible {
+  outline: 2px solid #1a7f5a;
+  outline-offset: 2px;
+  border-color: #1a7f5a;
+}
